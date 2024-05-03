@@ -1,6 +1,5 @@
 # Danheng Server
 
-**__This project is building! The game cannot run correctly!__**
 
 <p align="center">
 <a href="https://visualstudio.com"><img src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
